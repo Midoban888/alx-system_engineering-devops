@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # displays Best School 10 times.
 
 COUNTER=10
